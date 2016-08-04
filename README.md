@@ -1,3 +1,2 @@
-# portfolio
-Collection of web pages to create online portfolio
-Using html, will add CSS and JavaScript
+# Portfolio
+Website showcasing completed projects and work resume.
